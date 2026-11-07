@@ -1,0 +1,5 @@
+,CKA with tabular,CKA with tabular,CKA with text,CKA with text,CKA with image,CKA with image
+,mean,std,mean,std,mean,std
+model,,,,,,
+Attention fusion,0.8491891,0.014051678,0.3186414,0.007378183,0.1583772,0.036210738
+Concat fusion,0.84580326,0.03422443,0.2215168,0.05406468,0.26525527,0.020054687

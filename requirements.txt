@@ -1,0 +1,15 @@
+# Versions on Google Colab (Python 3.13.18), November 2026.
+# Notebooks 03 to 05 ran on a T4 GPU runtime; on Colab, torch and torchvision
+# come with CUDA already, so these lines only matter when running elsewhere.
+numpy==2.4.6
+pandas==2.2.3
+scipy==1.16.3
+scikit-learn==1.6.1
+torch==2.14.1
+torchvision==0.29.1
+transformers==5.22.1
+Pillow==11.3.0
+opencv-python==5.0.0.93
+matplotlib==3.10.0
+pyarrow==23.0.1
+requests==2.32.4

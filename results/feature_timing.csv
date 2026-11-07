@@ -1,0 +1,5 @@
+,ms_per_item
+image_effnet_crop,1.3163823190122121
+image_effnet_pad,1.0922937510559045
+image_resnet_pad,2.7503061763525407
+text_bert,8.818988631576715

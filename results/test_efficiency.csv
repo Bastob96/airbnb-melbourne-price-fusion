@@ -1,0 +1,4 @@
+model,parameters,"size (MB, float32)",training time (s),model inference (ms per listing),extra GPU memory to score the test set (MB)
+MLP tabular,16515,0.06606,2.036328792572021,0.00026250475287016204,4.645888
+Concat fusion,235395,0.94158,1.346714973449707,0.001908418567778786,28.349952
+Attention fusion,227332,0.909328,2.178515513737997,0.0019429555630094172,29.059072

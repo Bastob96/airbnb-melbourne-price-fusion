@@ -1,0 +1,7 @@
+step,val macro F1
+raw,0.614
+html removed,0.613
+"links, emails, phones removed",0.612
+dollar amounts removed,0.613
+names removed,0.614
+whitespace tidied,0.614

@@ -1,0 +1,43 @@
+model,seed,scenario,macro F1
+Concat fusion,42,all modalities,0.6677419969502125
+Concat fusion,42,no image,0.662117114298257
+Concat fusion,42,no text,0.6598507219115545
+Concat fusion,42,"tabular only (no text, no image)",0.6598966692184226
+Concat fusion,42,image shuffled between listings,0.6486833079510562
+Concat fusion,42,text shuffled between listings,0.648262717016019
+Concat fusion,42,image + Gaussian noise (sd 1),0.6685792653919128
+Concat fusion,43,all modalities,0.677175025532225
+Concat fusion,43,no image,0.6704159848482879
+Concat fusion,43,no text,0.6649783685605913
+Concat fusion,43,"tabular only (no text, no image)",0.6585497774273025
+Concat fusion,43,image shuffled between listings,0.6437287660530551
+Concat fusion,43,text shuffled between listings,0.6509536765849644
+Concat fusion,43,image + Gaussian noise (sd 1),0.6740565438888266
+Concat fusion,44,all modalities,0.6630875798228127
+Concat fusion,44,no image,0.6655445212379592
+Concat fusion,44,no text,0.6621816286601822
+Concat fusion,44,"tabular only (no text, no image)",0.6583570926197629
+Concat fusion,44,image shuffled between listings,0.6422156593443565
+Concat fusion,44,text shuffled between listings,0.65316935314273
+Concat fusion,44,image + Gaussian noise (sd 1),0.6608640999891265
+Attention fusion,42,all modalities,0.666754718197117
+Attention fusion,42,no image,0.6679397970331161
+Attention fusion,42,no text,0.668607309325592
+Attention fusion,42,"tabular only (no text, no image)",0.661235900792703
+Attention fusion,42,image shuffled between listings,0.6566999493222067
+Attention fusion,42,text shuffled between listings,0.6437181907596203
+Attention fusion,42,image + Gaussian noise (sd 1),0.6674326660377504
+Attention fusion,43,all modalities,0.6729370001365137
+Attention fusion,43,no image,0.6684424896235471
+Attention fusion,43,no text,0.6700674265867237
+Attention fusion,43,"tabular only (no text, no image)",0.6691010894539194
+Attention fusion,43,image shuffled between listings,0.6648488101086921
+Attention fusion,43,text shuffled between listings,0.638438455563784
+Attention fusion,43,image + Gaussian noise (sd 1),0.6718188429768553
+Attention fusion,44,all modalities,0.6742179861196763
+Attention fusion,44,no image,0.6740718369805028
+Attention fusion,44,no text,0.6683486171664659
+Attention fusion,44,"tabular only (no text, no image)",0.6637123164119463
+Attention fusion,44,image shuffled between listings,0.6692836334494675
+Attention fusion,44,text shuffled between listings,0.6496094773190314
+Attention fusion,44,image + Gaussian noise (sd 1),0.6714682592657528
